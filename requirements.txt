@@ -1,0 +1,13 @@
+# Core Web Framework
+Flask
+
+# WSGI Server for Production
+gunicorn
+
+# Data Handling
+pandas
+
+# Machine Learning & Scientific Computing
+numpy
+scipy
+scikit-learn
